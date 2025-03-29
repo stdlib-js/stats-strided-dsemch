@@ -358,7 +358,7 @@ int main( void ) {
 ## See Also
 
 -   <span class="package-name">[`@stdlib/stats-base/dsem`][@stdlib/stats/base/dsem]</span><span class="delimiter">: </span><span class="description">calculate the standard error of the mean for a double-precision floating-point strided array.</span>
--   <span class="package-name">[`@stdlib/stats-base/dstdevch`][@stdlib/stats/base/dstdevch]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a double-precision floating-point strided array using a one-pass trial mean algorithm.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/dstdevch`][@stdlib/stats/strided/dstdevch]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a double-precision floating-point strided array using a one-pass trial mean algorithm.</span>
 
 </section>
 
@@ -456,7 +456,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/stats/base/dsem]: https://github.com/stdlib-js/stats-base-dsem
 
-[@stdlib/stats/base/dstdevch]: https://github.com/stdlib-js/stats-base-dstdevch
+[@stdlib/stats/strided/dstdevch]: https://github.com/stdlib-js/stats-strided-dstdevch
 
 <!-- </related-links> -->
 

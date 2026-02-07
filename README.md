@@ -82,7 +82,7 @@ where `s` is the sample [standard deviation][standard-deviation].
 ## Usage
 
 ```javascript
-import dsemch from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-dsemch@esm/index.mjs';
+import dsemch from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-dsemch@v0.1.1-esm/index.mjs';
 ```
 
 #### dsemch( N, correction, x, strideX )
@@ -187,7 +187,7 @@ var v = dsemch.ndarray( 4, 1, x, 2, 1 );
 <script type="module">
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
-import dsemch from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-dsemch@esm/index.mjs';
+import dsemch from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-dsemch@v0.1.1-esm/index.mjs';
 
 var x = discreteUniform( 10, -50, 50, {
     'dtype': 'float64'
